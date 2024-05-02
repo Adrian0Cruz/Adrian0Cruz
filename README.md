@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Adrian Cruz
+- 👋 Hi, I’m @Jesús Hernández
 - 👀 I’m interested in learn, cybersecurity, linux, games and python.
 - 🌱 I’m currently learning java
 - 💞️ I’m looking to collaborate on everything
@@ -7,8 +7,8 @@
 - ⚡ Fun fact: I created this account for a task
 
 I am currently a student in the university of Cordobá in Colombia
-
-
+I am so young 
+I would be so happy to be invited to a project so I could learn from other people
 
 
 <!---
