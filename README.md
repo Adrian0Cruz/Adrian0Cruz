@@ -1,9 +1,12 @@
 > [!NOTE]
 > HELLO WORLD
+> 
 > [!TIP]
 > SMILE TO THE LIFE
+> 
 > [!IMPORTANT]
 > BE THE BESTEST
+>
 > [!WARNING]
 > DONT CRY
 - 👋 Hi, I’m @Jesús Hernández
