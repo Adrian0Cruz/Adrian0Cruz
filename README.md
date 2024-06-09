@@ -1,3 +1,7 @@
+## Hello
+< h1 align="center" > - 👋 Hi, I’m @Jesús Hernández < /h1 >
+
+## Little things
 > [!NOTE]
 > HELLO WORLD
 
@@ -10,14 +14,14 @@
 > [!WARNING]
 > DONT CRY
 
-- 👋 Hi, I’m @Jesús Hernández
+## GitHub
 - 👀 I’m interested in learn, cybersecurity, linux, games and python.
 - 🌱 I’m currently learning java
 - 💞️ I’m looking to collaborate on everything
 - 📫 How to reach me: https: in my socials medias as linkedin, facebook
 - 😄 Pronouns: la monda
 - ⚡ Fun fact: I created this account for a task
-
+## MySelf
 I am currently a student in the university of Cordobá in Colombia
 I am so young 
 I would be so happy to be invited to a project so I could learn from other people
