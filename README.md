@@ -1,5 +1,8 @@
 ## Hello
-<h1 align="center">- 👋 Hi, I’m @Jesús Hernández</h1>
+<h1 align="center">- 👋 Hi, I’m @Jesús Hernández </h1>
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Adrian+Cruz..&hearts;++;Systems+Engineering+Student,;JAVA+Newbie,;Active+Learner/Researcher,;Love+to+learn+new+stuffs..<3"></a>
+</p>
 
 ## Little things
 > [!NOTE]
@@ -24,11 +27,9 @@
 
 <div align="center">
 
-<a href="https://github.com/0xabdulkhalid/">
-  <img src="https://github-readme-stats.vercel.app/api?username=Adrian0Cruz&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="450"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Adrian0Cruz&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="375"  alt="0xabdulkhalid"/>
-
-</a>
+![AkuraDiary's github stats](https://github-readme-stats.vercel.app/api?username=Adrian0Cruz&show_icons=true&theme=tokyonight)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Adrian0Cruz&theme=tokyonight" alt="mystreak"/>
+![AkuraDiary's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Adrian0Cruz&theme=tokyonight&layout=compact)
 </div>
 
 ## MySelf
@@ -40,8 +41,13 @@ I would be so happy to be invited to a project so I could learn from other peopl
 * Here, the code not only works, it salsa dances!
 * In this corner of GitHub, every line of code is a work of art🎨, every commit is a party and every pull request is an epic adventure in the world of programming.
 * Our README is the red carpet🔴 that invites you to join the celebration of development.
-* So make yourself comfortable, prepare your best debugging smile and join us on this journey where bugs fear to enter and ideas shine brighter than the stars in the firmament of clean code. Go ahead, * the commit show is about to begin!
-
+* So make yourself comfortable, prepare your best debugging smile and join us on this journey where bugs fear to enter and ideas shine brighter than the stars in the firmament of clean code. Go ahead
+* the commit show is about to begin!
+  
+<footer>
+ 
+ last edit: 09-06-2024
+</footer>
 <!---
 Adrian0Cruz/Adrian0Cruz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
